@@ -10,9 +10,6 @@ android.permissions = INTERNET, WRITE_EXTERNAL_STORAGE
 android.accept_sdk_license = True
 android.api = 33
 android.ndk = 25b
-android.sdk = 24
-android.buildtools = 30.0.3
-android.use_aapt2 = True
 
 [buildozer]
 log_level = 2
